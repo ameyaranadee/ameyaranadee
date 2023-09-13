@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ameya Ranade</h1>
 <h3 align="center">A passionate developer currently in Boston.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ameyaranadee&label=Profile%20views&color=0e75b6&style=flat" alt="ameyaranadee" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ameyaranadee" alt="ameyaranadee" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/ameyaranadee" target="blank"><img src="https://img.shields.io/twitter/follow/ameyaranadee?logo=twitter&style=for-the-badge" alt="ameyaranadee" /></a> </p>
 
 - 📝 I regularly write articles on [https://medium.com/@ameyaranadee](https://medium.com/@ameyaranadee)
