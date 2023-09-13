@@ -10,7 +10,3 @@
 <a target="_blank"href="https://twitter.com/ameyaranadee"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
 <a target="_blank"href="https://www.instagram.com/ameyaranadee/">	<img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a target="_blank"href="https://www.kaggle.com/ameyaranade">	<img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/></a>
-</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ameyaranadee&show_icons=true&locale=en&layout=compact" alt="ameyaranadee" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ameyaranadee&show_icons=true&locale=en" alt="ameyaranadee" /></p>
