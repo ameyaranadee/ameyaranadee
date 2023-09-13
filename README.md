@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Ameya Ranade</h1>
+<h1 align="left">Hi 👋</h1>
 <h3 align="left">A passionate developer currently in Boston.</h3>
 
 - 📫 How to reach me **ranadeamr@gmail.com**
