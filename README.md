@@ -4,4 +4,4 @@
 - Currently pursuing my masters in computer science at the University of Massachusetts Amherst 
 - 📍 Amherst, MA, USA
 - I post my prose sometimes @ <a target="_blank" href="https://www.instagram.com/ameyaranadee/"> here </a>
-- Trying to be more active on <a target="_blank"href="https://twitter.com/ameyaranadee"> my twitter </a>
+- Trying to be more active <a target="_blank" href="https://twitter.com/ameyaranadee"> here </a>
